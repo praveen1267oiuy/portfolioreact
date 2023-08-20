@@ -1,0 +1,20 @@
+.header{
+    background-color: #f0f0f0;
+    color: rgb(6, 30, 30);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 7vh;
+}
+
+
+
+.service{
+    background-color: #5C5470;
+}
+.contact{
+    background-color: #FAF0E6;
+}
+.review{
+    background-color: #B9B4C7;
+}
